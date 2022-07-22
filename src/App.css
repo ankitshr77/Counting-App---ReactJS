@@ -1,0 +1,14 @@
+.button{
+  font-size: 30px;
+  margin: 5px;
+  background-color: antiquewhite;
+}
+
+.digit{
+  font-size: 50px;
+}
+
+.box{
+  text-align: center;
+  margin-top: 100px;
+}
